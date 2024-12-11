@@ -1,5 +1,8 @@
 # React + Vite
 
+#This is a front end of our Smart India Hackathon SIH'24 with problem statement as Creating a cyber triage tool
+ to streamline digital forensic investigation
+ 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
